@@ -1,6 +1,6 @@
 name: ALL_BUILD
 
-# Controls when the action will run.1 
+# Controls when the action will run.
 on: 
   push:
     branches: 
